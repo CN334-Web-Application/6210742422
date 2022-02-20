@@ -1,0 +1,16 @@
+.name {
+    display: inline-block;
+}
+
+.tel {
+    display: inline-block;
+}
+
+.email {
+    display: inline-block;
+}
+
+.description {
+    width: 100%;
+    height: 100px;
+}
